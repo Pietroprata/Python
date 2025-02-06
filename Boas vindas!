@@ -1,0 +1,4 @@
+#ler o nome de uma pessoa e mostrar uma mensagem de boas vindas
+
+nome = input('qual o seu nome? ')
+print('SEJA BEM VINDE {}!'. format(nome))

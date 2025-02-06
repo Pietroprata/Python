@@ -1,0 +1,5 @@
+#apenas a forma mais básica de introdução
+
+print('hello world')
+print('Olá, mundo!')
+print('Eai, visitante!')

@@ -1,0 +1,8 @@
+#Ler o dia, mês e ano informado pelo usuário, e mostrar-lo na tela logo em seguida.
+
+dia=input("digite o dia:")
+mes=input('digite o mês:')
+ano=input('digite o ano:')
+
+print('dia:', dia,'mes:', mes, 'ano:', ano)
+print(dia,'/', mes,'/', ano)
